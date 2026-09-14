@@ -30,7 +30,6 @@ executable profiles
       src
       src/db
       src/controller
-      src/helpers
       src/dto
   default-extensions:
       DuplicateRecordFields
